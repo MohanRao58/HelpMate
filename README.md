@@ -3,6 +3,7 @@
 Shifra is an interactive virtual assistant that listens to your voice commands and responds with dynamic actions like opening websites, telling the time or date, and performing web searches. It's built with HTML, CSS, and JavaScript using modern web APIs.
 
 ---
+![image alt](https://github.com/MohanRao58/HelpMate/blob/22599607b65cd7b7f2719897f58770e6913e4682/screenshot.PNG)
 
 ## Features
 
